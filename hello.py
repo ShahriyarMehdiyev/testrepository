@@ -1,1 +1,1 @@
-print("Hello, Baku")
+print("Hello, Azerbaijan")
